@@ -1,4 +1,4 @@
-import { embaralharSimples } from "../funntions/arrays"
+import { embaralharSimples } from "../functions/arrays"
 import RespostaModel from "./resposta"
 
 export default class QuestaoModel{

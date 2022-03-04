@@ -1,4 +1,4 @@
-import { embaralhar, embaralharSimples } from "../../../funntions/arrays";
+import { embaralhar, embaralharSimples } from "../../../functions/arrays";
 import questoes from "../bancoDeQuestoes";
 
 export default (req, res) => {
